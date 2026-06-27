@@ -200,6 +200,11 @@ cd client && npm start
 ## 📸 Screenshots
 
 <img width="1899" height="893" alt="image" src="https://github.com/user-attachments/assets/9446d0e7-37cd-4079-b5d3-8a5dc9165231" />
+<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/b1061016-69d8-4f82-9119-5d545f0042c8" />
+<img width="1697" height="824" alt="image" src="https://github.com/user-attachments/assets/56ab5387-1848-4b00-992f-a0b65b4dd247" />
+<img width="1698" height="816" alt="image" src="https://github.com/user-attachments/assets/0834cdde-b815-4eda-a7b3-b0a02335f94d" />
+<img width="1700" height="817" alt="image" src="https://github.com/user-attachments/assets/63062d3c-e973-4198-8691-f47fa4847acc" />
+
 
 
 ---

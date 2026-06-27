@@ -199,7 +199,8 @@ cd client && npm start
 
 ## 📸 Screenshots
 
-> 📌 *Screenshots and demo coming soon*
+<img width="1899" height="893" alt="image" src="https://github.com/user-attachments/assets/9446d0e7-37cd-4079-b5d3-8a5dc9165231" />
+
 
 ---
 

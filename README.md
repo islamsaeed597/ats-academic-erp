@@ -69,6 +69,19 @@ One of the system's most innovative features:
 
 ---
 
+### 📅 Smart Interactive Calendar
+One of the platform's most powerful collaborative features:
+
+- 🖱️ **Drag & Drop scheduling** — Admins can create, move, and reschedule events and lectures directly on the calendar
+- 👁️ **Role-aware views** — Every user sees the same calendar but with **personalized content** based on their role:
+  - 👑 Owner / Admin → sees all events across all branches
+  - 👨‍🏫 Teacher → sees only their assigned lectures & sessions
+  - 🎓 Student → sees only their enrolled courses & schedules
+- 🔄 **Real-time updates** — Changes reflect instantly for all users
+- 📆 Supports events, lectures, exams, and custom academy activities
+
+---
+
 ### 🌐 Additional Features
 - **Multilingual support** (i18n) — Arabic & English
 - **Excel / CSV import & export** for bulk data management
